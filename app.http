@@ -7,8 +7,8 @@ Content-Type: application/json
 
 
 {
-    "name":"iqbal" ,
-    "email":"iqbal@example.com" ,
+    "name":"iq" ,
+    "email":"iqbalexample.com" ,
     "addresses": [{
         "city": "Dhakar"  }],
         "skills":"Javascript, React, Node"
